@@ -3669,7 +3669,7 @@ function tr(r) {
 }
 function ir(r, e, i) {
     let t = "chpic.su_-_Godzi_026.tgs";  
-    const s = ["kungfu.tgs", "laug.tgs", "ghostmain.tgs", "muical.tgs", "yogalight.tgs", "death.tgs", "card.tgs", "chpic.su_-_Godzi_026.tgs", "dessv.tgs", "AnimatedSticker.tgs"];
+    const s = ["chpic.su_-_Godzi_026.tgs", "new1.tgs", "new2.tgs", "new3.tgs", "new4.tgs", "new5.tgs", "new6.tgs", "", "new7.tgs", "new8.tgs","new9.tgs","new10.tgs","new11.tgs","fu.tgs","fu1.tgs","fu3.tgs","fu4.tgs","fu5.tgs","fu6.tgs"];
     return t = s[Math.floor(Math.random() * s.length)],
     yt(async () => {
         var n = 0
@@ -11512,10 +11512,10 @@ const pa = `[
 `//Experience section start
   , ua = `[ 
 	{
-		"institution": "University Of Colombo ",
-		"role": "Bachelor Of Information Technology",
+		"institution": "University Of ICBT",
+		"role": "Computer System And Software Engineering ",
 		"location": "Colombo,Lk ",
-		"duration": "2024 - Crunnt",
+		"duration": "2025 - Crunnt",
 		"short": "mora"
 	},
 	{

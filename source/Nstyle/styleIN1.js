@@ -107,7 +107,7 @@ function Rt(r) {
         m: ie,
         d: ie
     }
-}card.tgs
+}
 function jt(r) {
     let e, i = r[12] && Rt(r);
     return {
@@ -3669,11 +3669,11 @@ function tr(r) {
 }
 function ir(r, e, i) {
     let t = "chpic.su_-_Godzi_026.tgs";  
-    const s = ["kungfu.tgs", "laug.tgs", "ghostmain.tgs", "tet.webm", "yogalight.tgs", "death.tgs", "card.tgs", "chpic.su_-_Godzi_026.tgs", "dessv.tgs", "AnimatedSticker.tgs"];
+    const s = ["kungfu.tgs", "laug.tgs", "ghostmain.tgs", "muical.tgs", "yogalight.tgs", "death.tgs", "card.tgs", "chpic.su_-_Godzi_026.tgs", "dessv.tgs", "AnimatedSticker.tgs"];
     return t = s[Math.floor(Math.random() * s.length)],
     yt(async () => {
         var n = 0
-          , a = "	developer, Network Operator, ";
+          , a = "	da, Network Operator, ";
         function d() {
             n < a.length && (document.getElementById("typewriter").innerHTML += a.charAt(n),
             n++,
@@ -11512,10 +11512,10 @@ const pa = `[
 `//Experience section start
   , ua = `[ 
 	{
-		"institution": "University Of Colombo ",
-		"role": "Bachelor Of Information Technology",
+		"institution": "University Of ICBT",
+		"role": "Computer System And Software Engineering ",
 		"location": "Colombo,Lk ",
-		"duration": "2024 - Crunnt",
+		"duration": "2025 - Crunnt",
 		"short": "mora"
 	},
 	{
